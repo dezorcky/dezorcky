@@ -88,3 +88,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dezorcky/dezorcky/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dezorcky/dezorcky/output/github-contribution-grid-snake-light.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dezorcky/dezorcky/output/github-contribution-grid-snake.svg">
+</picture>
