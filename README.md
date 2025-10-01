@@ -216,7 +216,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
         align="left" 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezorcky&theme=radical&layout=compact&custom_title=Tecnologies&langs_count=6" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezorcky&theme=radical&layout=compact&custom_title=Tecnologies&langs_count=9" 
     />
 
 </p>
