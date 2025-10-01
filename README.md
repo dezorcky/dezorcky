@@ -225,7 +225,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
       align="left" 
       alt="GIF" 
       height="200" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFzaG1weG54MHl4NjYxYmYwZzZqcWpvMzI2azFjNW52cTRkMGpndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kliStk02WKPkHxDUCb/giphy.gif" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JlNmFhN2U4a3B4bzY5dWhlNnh5Ym5uZm53dm1qMmp0NWJqcTRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" 
   />
 
 </p>
