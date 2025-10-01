@@ -103,14 +103,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 />
 <img 
     align="left" 
-    alt="ExpressJS"
-    title="ExpressJS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-/>
-<img 
-    align="left" 
     alt="NestJS"
     title="NestJS" 
     width="30px" 
@@ -213,20 +205,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 ### ⚡ Stats
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dezorcky&show_icons=true&theme=radical&include_all_commits=true&locale=en" 
-  />
-
-<img 
-      align="left" 
-      alt="GIF" 
-      height="200" 
-      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JlNmFhN2U4a3B4bzY5dWhlNnh5Ym5uZm53dm1qMmp0NWJqcTRuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" 
-  />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
 
 </p>
 
