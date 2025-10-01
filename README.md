@@ -1,6 +1,6 @@
 # 👨‍💻 Dezorcky
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77100&vCenter=true&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B801&vCenter=true&width=435&lines=Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 ---
 
-### 🤖 Tech Stack
+### 🛠 Tools
 
 <img 
     align="left" 
@@ -187,7 +187,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 />
 <img 
     align="left" 
@@ -210,7 +210,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 <br/>
 <br/>
 
-### 📊 Stats
+### ⚡ Stats
 
 <p>
   <img 
@@ -223,9 +223,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="GIF" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezorcky&theme=radical&layout=compact&custom_title=Tecnologies&langs_count=6" 
+      src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFzaG1weG54MHl4NjYxYmYwZzZqcWpvMzI2azFjNW52cTRkMGpndCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kliStk02WKPkHxDUCb/giphy.gif" 
   />
 
 </p>
