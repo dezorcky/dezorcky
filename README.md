@@ -218,7 +218,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=dezorcky&show_icons=true&theme=radical&include_all_commits=true&locale=en" 
+    src="https://github-readme-stats.vercel.app/api?username=dezorcky&show_icons=true&theme=dark&include_all_commits=true&locale=en" 
   />
 
 <img 
